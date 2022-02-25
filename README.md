@@ -1,2 +1,2 @@
-# idk
-bash tasks app
+# Tasks app
+#### an python tasks app in bash
